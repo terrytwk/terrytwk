@@ -4,13 +4,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tae-wook-terry-kim-5824861b5/)](https://www.linkedin.com/in/tae-wook-terry-kim-5824861b5/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:terrykim950@gmail.com)](mailto:terrykim950@gmail.com)
 
-[![ggomaeng's github stats](https://github-readme-stats.vercel.app/api?username=terrytwk&show_icons=true&hide=contribs,issues)](https://github.com/terrytwk)
+[![terrytwk's github stats](https://github-readme-stats.vercel.app/api?username=terrytwk&show_icons=true&hide=contribs,issues)](https://github.com/terrytwk)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terrytwk&layout=compact)](https://github.com/terrytwk)
 
 Hello there! 👋
 
-I am a full-stack software engineer with experiences in app / web / browser extension / web3 development and a former barista at a specialty coffee shop [Stereoscope](https://www.stereoscopecoffee.com/). 
+I am a full-stack software engineer with experiences in mobile app / web / browser extension / web3 development and a former barista at a specialty coffee shop [Stereoscope](https://www.stereoscopecoffee.com/). 
 
 ### 🎓 Education
 
@@ -38,6 +38,6 @@ I am a full-stack software engineer with experiences in app / web / browser exte
 
 #### 2018
 
-- **Semi-Finaliste** - at National Cyber Defense Competition
+- **Semi-Finaliste** - Linux OS Network Securituy Challenge at National Cyber Defense Competition
 
 - **1st Place** - [ProfessorPosture](https://www.congressionalappchallenge.us/2018-winners/#California) at Congressional App Challenge CA28 District
