@@ -22,7 +22,7 @@ I am a full-stack software engineer with experiences in mobile app / web / brows
 
 #### 2022
 
-- **1st Place in Global Connetions Vertical - [NetChill](https://devpost.com/software/netchill?ref_content=my-projects-tab&ref_feature=my_projects) at HackSC
+- **1st Place in Global Connetions Vertical** - [NetChill](https://devpost.com/software/netchill?ref_content=my-projects-tab&ref_feature=my_projects) at HackSC
 
 - **Best Hack on Web3 & 2nd Place Solana Tech Prize** - [Bounty](https://devpost.com/software/bounty-8o3idu) at CalHacks
   
