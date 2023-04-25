@@ -22,11 +22,13 @@ I am a full-stack software engineer with experiences in mobile app / web / brows
 
 #### 2023
 
+- **Best Use of Appwrite** - [Itineroo](https://devpost.com/software/shravel) at LA Hacks
+
 - **1st Place in Global Connetions Vertical** - [NetChill](https://devpost.com/software/netchill?ref_content=my-projects-tab&ref_feature=my_projects) at HackSC
 
 #### 2022
 
-- **Best Hack on Web3 & 2nd Place Solana Tech Prize** - [Bounty](https://devpost.com/software/bounty-8o3idu) at CalHacks
+- **Best Hack on Web3 & 2nd Place Solana Tech Prize** - [Bounty](https://devpost.com/software/bounty-8o3idu) at Cal Hacks
   
 - **Best AI Hack & Best Use of Mage API for AI/ML** - [Biascope](https://devpost.com/software/biascope) at HackUCI
 
