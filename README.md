@@ -44,6 +44,6 @@ I am a full-stack software engineer with experiences in mobile app / web / brows
 
 #### 2018
 
-- **Semi-Finaliste** - Linux OS Network Securituy Challenge at National Cyber Defense Competition
+- **Semi-Finalist** - Linux OS Network Securituy Challenge at National Cyber Defense Competition
 
 - **1st Place** - [ProfessorPosture](https://www.congressionalappchallenge.us/2018-winners/#California) at Congressional App Challenge CA28 District
